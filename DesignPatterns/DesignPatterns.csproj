@@ -5,4 +5,20 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Patterns\Creational\Creational.Builder.Builder.cs" />
+    <Compile Remove="Patterns\Creational\Creational.Builder.BuilderFacets.cs" />
+    <Compile Remove="Patterns\Creational\Creational.Builder.BuilderInheritance.cs" />
+    <Compile Remove="Patterns\Creational\Creational.Builder.FunctionalBuilder.cs" />
+    <Compile Remove="Patterns\Creational\Creational.Builder.StepwiseBuilder.Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Patterns\Creational\Builder\Creational.Builder.Builder.cs" />
+    <None Include="Patterns\Creational\Builder\Creational.Builder.BuilderFacets.cs" />
+    <None Include="Patterns\Creational\Builder\Creational.Builder.BuilderInheritance.cs" />
+    <None Include="Patterns\Creational\Builder\Creational.Builder.FunctionalBuilder.cs" />
+    <None Include="Patterns\Creational\Builder\Creational.Builder.StepwiseBuilder.Program.cs" />
+  </ItemGroup>
+
 </Project>
