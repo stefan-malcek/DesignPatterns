@@ -17,6 +17,11 @@
     <Compile Remove="Patterns\Creational\Prototype\Creational.Prototype.CopyThroughSerialization.cs" />
     <Compile Remove="Patterns\Creational\Prototype\Creational.Prototype.ICloneableIsBad.cs" />
     <Compile Remove="Patterns\Creational\Prototype\Creational.Prototype.Inheritance.cs" />
+    <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.AmbientContext.cs" />
+    <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.Monostate.cs" />
+    <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.PerThreadSingleton.cs" />
+    <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.Singleton.cs" />
+    <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.SingletonInDI.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -31,6 +36,17 @@
     <None Include="Patterns\Creational\Prototype\Creational.Prototype.CopyThroughSerialization.cs" />
     <None Include="Patterns\Creational\Prototype\Creational.Prototype.ICloneableIsBad.cs" />
     <None Include="Patterns\Creational\Prototype\Creational.Prototype.Inheritance.cs" />
+    <None Include="Patterns\Creational\Singleton\Creational.Singleton.AmbientContext.cs" />
+    <None Include="Patterns\Creational\Singleton\Creational.Singleton.Monostate.cs" />
+    <None Include="Patterns\Creational\Singleton\Creational.Singleton.PerThreadSingleton.cs" />
+    <None Include="Patterns\Creational\Singleton\Creational.Singleton.Singleton.cs" />
+    <None Include="Patterns\Creational\Singleton\Creational.Singleton.SingletonInDI.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Patterns\Creational\Singleton\capitals.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
