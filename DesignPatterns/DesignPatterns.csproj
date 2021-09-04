@@ -11,6 +11,8 @@
     <Compile Remove="Patterns\Creational\Creational.Builder.BuilderInheritance.cs" />
     <Compile Remove="Patterns\Creational\Creational.Builder.FunctionalBuilder.cs" />
     <Compile Remove="Patterns\Creational\Creational.Builder.StepwiseBuilder.Program.cs" />
+    <Compile Remove="Patterns\Creational\Factories\Creational.Factories.AbstractFactory.cs" />
+    <Compile Remove="Patterns\Creational\Factories\Creational.Factories.Factory.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,6 +21,8 @@
     <None Include="Patterns\Creational\Builder\Creational.Builder.BuilderInheritance.cs" />
     <None Include="Patterns\Creational\Builder\Creational.Builder.FunctionalBuilder.cs" />
     <None Include="Patterns\Creational\Builder\Creational.Builder.StepwiseBuilder.Program.cs" />
+    <None Include="Patterns\Creational\Factories\Creational.Factories.AbstractFactory.cs" />
+    <None Include="Patterns\Creational\Factories\Creational.Factories.Factory.cs" />
   </ItemGroup>
 
 </Project>
