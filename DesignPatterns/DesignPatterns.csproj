@@ -26,6 +26,8 @@
     <Compile Remove="Patterns\Structural\Adapter\Structural.Adapter.NoCaching.cs" />
     <Compile Remove="Patterns\Structural\Adapter\Structural.Adapter.WithCaching.cs" />
     <Compile Remove="Patterns\Structural\Bridge\Structural.Bridge.Bridge.cs" />
+    <Compile Remove="Patterns\Structural\Composite\Structural.Composite.GeometricShapes.cs" />
+    <Compile Remove="Patterns\Structural\Composite\Structural.Composite.NeuralNetworks.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -49,6 +51,8 @@
     <None Include="Patterns\Structural\Adapter\Structural.Adapter.NoCaching.cs" />
     <None Include="Patterns\Structural\Adapter\Structural.Adapter.WithCaching.cs" />
     <None Include="Patterns\Structural\Bridge\Structural.Bridge.Bridge.cs" />
+    <None Include="Patterns\Structural\Composite\Structural.Composite.GeometricShapes.cs" />
+    <None Include="Patterns\Structural\Composite\Structural.Composite.NeuralNetworks.cs" />
   </ItemGroup>
 
   <ItemGroup>
