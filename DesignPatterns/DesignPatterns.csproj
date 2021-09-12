@@ -22,6 +22,9 @@
     <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.PerThreadSingleton.cs" />
     <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.Singleton.cs" />
     <Compile Remove="Patterns\Creational\Singleton\Creational.Singleton.SingletonInDI.cs" />
+    <Compile Remove="Patterns\Structural\Adapter\Structural.Adapter.GenericValueAdapter.cs" />
+    <Compile Remove="Patterns\Structural\Adapter\Structural.Adapter.NoCaching.cs" />
+    <Compile Remove="Patterns\Structural\Adapter\Structural.Adapter.WithCaching.cs" />
     <Compile Remove="Patterns\Structural\Bridge\Structural.Bridge.Bridge.cs" />
   </ItemGroup>
 
@@ -42,6 +45,9 @@
     <None Include="Patterns\Creational\Singleton\Creational.Singleton.PerThreadSingleton.cs" />
     <None Include="Patterns\Creational\Singleton\Creational.Singleton.Singleton.cs" />
     <None Include="Patterns\Creational\Singleton\Creational.Singleton.SingletonInDI.cs" />
+    <None Include="Patterns\Structural\Adapter\Structural.Adapter.GenericValueAdapter.cs" />
+    <None Include="Patterns\Structural\Adapter\Structural.Adapter.NoCaching.cs" />
+    <None Include="Patterns\Structural\Adapter\Structural.Adapter.WithCaching.cs" />
     <None Include="Patterns\Structural\Bridge\Structural.Bridge.Bridge.cs" />
   </ItemGroup>
 
