@@ -28,6 +28,12 @@
     <Compile Remove="Patterns\Structural\Bridge\Structural.Bridge.Bridge.cs" />
     <Compile Remove="Patterns\Structural\Composite\Structural.Composite.GeometricShapes.cs" />
     <Compile Remove="Patterns\Structural\Composite\Structural.Composite.NeuralNetworks.cs" />
+    <Compile Remove="Patterns\Structural\Decorator\AutofacDemos.Decorators.cs" />
+    <Compile Remove="Patterns\Structural\Decorator\Structural.Decorator.AdapterDecorator.cs" />
+    <Compile Remove="Patterns\Structural\Decorator\Structural.Decorator.CodeBuilder.cs" />
+    <Compile Remove="Patterns\Structural\Decorator\Structural.Decorator.CycleDetection.cs" />
+    <Compile Remove="Patterns\Structural\Decorator\Structural.Decorator.Decorator.cs" />
+    <Compile Remove="Patterns\Structural\Decorator\Structural.Decorator.MultipleInheritance.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -53,6 +59,12 @@
     <None Include="Patterns\Structural\Bridge\Structural.Bridge.Bridge.cs" />
     <None Include="Patterns\Structural\Composite\Structural.Composite.GeometricShapes.cs" />
     <None Include="Patterns\Structural\Composite\Structural.Composite.NeuralNetworks.cs" />
+    <None Include="Patterns\Structural\Decorator\AutofacDemos.Decorators.cs" />
+    <None Include="Patterns\Structural\Decorator\Structural.Decorator.AdapterDecorator.cs" />
+    <None Include="Patterns\Structural\Decorator\Structural.Decorator.CodeBuilder.cs" />
+    <None Include="Patterns\Structural\Decorator\Structural.Decorator.CycleDetection.cs" />
+    <None Include="Patterns\Structural\Decorator\Structural.Decorator.Decorator.cs" />
+    <None Include="Patterns\Structural\Decorator\Structural.Decorator.MultipleInheritance.cs" />
   </ItemGroup>
 
   <ItemGroup>
