@@ -35,6 +35,8 @@
     <Compile Remove="Patterns\Structural\Decorator\Structural.Decorator.Decorator.cs" />
     <Compile Remove="Patterns\Structural\Decorator\Structural.Decorator.MultipleInheritance.cs" />
     <Compile Remove="Patterns\Structural\Facade\Structural.Facade.Exercise.cs" />
+    <Compile Remove="Patterns\Structural\Flyweight\Structural.Flyweight.TextFormatting.cs" />
+    <Compile Remove="Patterns\Structural\Flyweight\Structural.Flyweight.Users.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -67,6 +69,8 @@
     <None Include="Patterns\Structural\Decorator\Structural.Decorator.Decorator.cs" />
     <None Include="Patterns\Structural\Decorator\Structural.Decorator.MultipleInheritance.cs" />
     <None Include="Patterns\Structural\Facade\Structural.Facade.Exercise.cs" />
+    <None Include="Patterns\Structural\Flyweight\Structural.Flyweight.TextFormatting.cs" />
+    <None Include="Patterns\Structural\Flyweight\Structural.Flyweight.Users.cs" />
   </ItemGroup>
 
   <ItemGroup>
