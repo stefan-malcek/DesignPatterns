@@ -37,6 +37,14 @@
     <Compile Remove="Patterns\Structural\Facade\Structural.Facade.Exercise.cs" />
     <Compile Remove="Patterns\Structural\Flyweight\Structural.Flyweight.TextFormatting.cs" />
     <Compile Remove="Patterns\Structural\Flyweight\Structural.Flyweight.Users.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\PropertyProxy.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\Structural.Proxy.BitFragging.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\Structural.Proxy.CompositeProxy.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\Structural.Proxy.DynamicProxy.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\Structural.Proxy.ProtectionProxy.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\Structural.Proxy.SoACompositeProxy.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\Structural.Proxy.ValueProxy.cs" />
+    <Compile Remove="Patterns\Structural\Proxy\Structural.Proxy.ViewModel.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -71,6 +79,14 @@
     <None Include="Patterns\Structural\Facade\Structural.Facade.Exercise.cs" />
     <None Include="Patterns\Structural\Flyweight\Structural.Flyweight.TextFormatting.cs" />
     <None Include="Patterns\Structural\Flyweight\Structural.Flyweight.Users.cs" />
+    <None Include="Patterns\Structural\Proxy\PropertyProxy.cs" />
+    <None Include="Patterns\Structural\Proxy\Structural.Proxy.BitFragging.cs" />
+    <None Include="Patterns\Structural\Proxy\Structural.Proxy.CompositeProxy.cs" />
+    <None Include="Patterns\Structural\Proxy\Structural.Proxy.DynamicProxy.cs" />
+    <None Include="Patterns\Structural\Proxy\Structural.Proxy.ProtectionProxy.cs" />
+    <None Include="Patterns\Structural\Proxy\Structural.Proxy.SoACompositeProxy.cs" />
+    <None Include="Patterns\Structural\Proxy\Structural.Proxy.ValueProxy.cs" />
+    <None Include="Patterns\Structural\Proxy\Structural.Proxy.ViewModel.cs" />
   </ItemGroup>
 
   <ItemGroup>
