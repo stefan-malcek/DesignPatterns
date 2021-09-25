@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Patterns\Behavioral\Behavioral.ChainOfResponsibility.BrokerChain.cs" />
+    <Compile Remove="Patterns\Behavioral\Behavioral.ChainOfResponsibility.MethodChain.cs" />
     <Compile Remove="Patterns\Creational\Creational.Builder.Builder.cs" />
     <Compile Remove="Patterns\Creational\Creational.Builder.BuilderFacets.cs" />
     <Compile Remove="Patterns\Creational\Creational.Builder.BuilderInheritance.cs" />
@@ -48,6 +50,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Patterns\Behavioral\ChainOfResponsibility\Behavioral.ChainOfResponsibility.BrokerChain.cs" />
+    <None Include="Patterns\Behavioral\ChainOfResponsibility\Behavioral.ChainOfResponsibility.MethodChain.cs" />
     <None Include="Patterns\Creational\Builder\Creational.Builder.Builder.cs" />
     <None Include="Patterns\Creational\Builder\Creational.Builder.BuilderFacets.cs" />
     <None Include="Patterns\Creational\Builder\Creational.Builder.BuilderInheritance.cs" />
